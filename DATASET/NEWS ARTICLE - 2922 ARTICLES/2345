@@ -1,0 +1,13 @@
+Microsoft has removed a standalone security update from its Windows update after confirming user reports about freezes, boot problems, and installation issues. The security update, KB4524244 was released on Feb 11, 2020, as part of the normal Patch Tuesday release cycle, and was targeted for all Windows 10 versions via Windows Update, the company said on Saturday.
+
+It was intended to address a security vulnerability affecting third-party Unified Extensible Firmware Interface (UEFI) boot managers. “The standalone security update has been removed due to an issue affecting a sub-set of devices. It will not be re-offered from Windows Update, Windows Server Update Services (WSUS) or Microsoft Update Catalog,” the company said in a statement.
+
+“Removal of this standalone security update does not affect successful installation or any changes within any other Feb 11, 2020 security updates, including Latest Cumulative Update (LCU), Monthly Rollup or Security Only update,” the company added.
+
+According to the Microsoft, they are working on an improved version of this update in coordination with the partners and will release it in a future update.
+
+Watch Video: Best non-Chinese smartphones in India
+
+In another news, Microsoft CEO Satya Nadella will be visiting India on February 24, around same time when US President Donald Trump will also be visiting. Nadella is expected to attend a company event on February 24 and 25. His visit comes barely a month after he had voiced his opinion on the new citizenship law (CAA). Nadella, who hails from Hyderabad and became the Microsoft CEO in 2014, said last month whatever was happening in India on this new legislation was just bad.
+
+Written with inputs from IANS

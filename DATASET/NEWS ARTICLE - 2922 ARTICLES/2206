@@ -1,0 +1,473 @@
+From: Government Digital Service Assessment date: 11/04/2019 Stage: Alpha assessment Result: Met Service provider: Civil Aviation Authority
+
+Service description
+
+The Air Navigation Order (ANO) 2018 amendment includes new regulations designed to improve air safety in the UK in relation to small unmanned aircraft. These aircraft are commonly known as ‘small drones’.
+
+Among the new regulations are two new key requirements related to drones:
+
+any person (including individuals and organisations) that is responsible for a drone must register with the CAA
+
+anyone, of any age, who wishes to fly a drone must first prove their competency to the CAA
+
+The intention is that these measures will:
+
+reduce drone incidents and the risk of them
+
+improve accountability and risk awareness among drone users
+
+support enforcement actions against illegal drone use
+
+reduce privacy risks associated with drone use
+
+To meet these objectives, our user research has shown that the Drone Registration and Education Service should include:
+
+an education service to help users understand and become aware of the rules
+
+a method of establishing users’ competency (which may include a test or other method)
+
+a registration service that enables users to register with CAA that they are responsible for a drone
+
+What counts as a drone
+
+In simple terms, a drone is any aircraft that is controlled remotely. The relatively recent wider availability of quadcopters has seen the term ‘drone’ become most commonly associated with those aircraft. However, the legislation applies to all remotely controlled aircraft, including model aircraft, model gliders and model helicopters. This is an important distinction for understanding the service users.
+
+Service users
+
+We have identified eight broad groups of service users:
+
+Drone enthusiasts
+
+Proficient and engaged drone users who frequently go out flying. Their main interest is in the flying of drones – whether for money, racing, or fun. They are working age, digitally and technologically proficient, and engage with each other and the community both digitally and face to face. They are overwhelmingly male.
+
+Model aircraft flyers
+
+Proficient and engaged model aircraft flyers who regularly go out flying. They are generally well trained in how to fly safely. These users fly as a hobby with a social element where they get to engage with like-minded people. They primarily engage with other users in person at club meet-ups. They are less digitally aware, overwhelmingly male and of an older demographic.
+
+Disengaged drone owners
+
+Rarely fly their drones. When they do fly, it is primarily for associated interests, such as photography. Sometimes they will fly commercially; sometimes personally. They are a mix of ages and gender and are of a wealthier socio-economic bracket. Generally, they do not engage with other users.
+
+People seriously considering getting a drone
+
+These users take a measured approach to getting a drone, and thoroughly research the complexities and costs involved based on a respect for the complexity of engaging in the hobby (drones can be expensive and an investment to become proficient in.) They are generally of working age. They will be considering drones out of an interest in going flying, the technology involved, or in relation to another hobby, such as photography. They differ from people who are disengaged with drones in that they invest time in learning about the hobby from other sources – generally found online.
+
+Impromptu fliers
+
+This group of users have never used a drone before but have had the chance to fly. For example, they may have:
+
+borrowed a drone from a friend
+
+been given an unexpected opportunity to fly a drone
+
+made an unplanned purchase of a drone
+
+been given a drone as a gift
+
+They likely form the largest group of potential users.
+
+People responsible for an aircraft that will be used by others
+
+People in this group are responsible for looking after drones and making sure that anyone flying the drone is responsible for and meets the competency requirement. This group includes people like parents, teachers, and managers. It includes people of all working age demographics. They may not fly a drone themselves.
+
+Under 18s (sub-group)
+
+These users are a sub-group of any of the other groups (other than ‘People responsible for a drone that will be used by others’). They will only fly drones: the regulations mean they cannot be registered as responsible for a drone. They fly drones as a social activity. They include some of the best drone flyers in the world – the current world champion is 12 years old! They are digitally competent and familiar with online learning.
+
+Verifiers
+
+Responsible for checking someone else’s drone registration status and/or competency to fly. They include people such as: insurers, police and law enforcers, event organisers, clients of drone companies and employers of drone users. Their single need is to verify that a third party meets any legal requirements in relation to drones – for example, in order to make sure that the verifier’s own insurance is valid or that they have the relevant permissions.
+
+1. Understand user needs
+
+Decision
+
+The team met point 1 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the team has amended their personas so that they were less task oriented and more focussed on motivations and behaviours. From 170+ sub user needs they walked us through the core personas they have developed. These have helped the team communicate with their designers and development team more effectively
+
+the team have particularly focussed on new users in the 4 weeks since last assessment, and used that learning to continue to inform their service. This focus has helped them to iterate their personas and think more about how new users come into the service
+
+the team talked more about their focus on accessibility since the start of alpha - they’ve managed to engage with 2 users per sprint that have specific access needs, including people with dyslexia and with arthritis that affects their ability to hold the equipment. They have been discussing whether a practice test would be useful for some users, and we discussed in the assessment how this might be helpful where tests result in anxiety for some users. The team understands that modellers have lowest digital capability and are looking at ways to support them to use the service, perhaps by building the capability of communities to support each other to use the digital and other channels
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+the team needs to do a large amount of research on the educational part of the service in the next phase. They still need to understand the optimal number and type of questions in the test. This includes looking into the comprehensibility of the questions to ensure that passing the test actually means that users understand the questions and their answers - the user researcher outlined the teams plans for testing this in the next quarter, and understood that certain personas may require different, or additional information
+
+the team should also continue to look into the idea of a practice test and assess the added value this would bring for certain users
+
+the team should continue to look into and test different routes into the service for new users, particularly in terms of an alternative for where users haven’t read the leaflet that accompanies their drone. This may vary per user group, so this needs to be thoroughly tested given the implications for insurance
+
+2. Do ongoing user research
+
+Decision
+
+The team met point 2 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the team have a clear idea of what their private beta will look like, which includes a substantial amount of research around both elements of the service and well as continuing to look at the recommendations made in the previous assessment
+
+the team have used their updated personas well to inform their alpha work and plans for beta. For example they mentioned that they plan to develop and test four potential landing pages for different user groups tailored to their needs and characteristics
+
+the team have been looking at the branding for the service, and will continue to look at this in the next phase. They stated that the majority of their users are unlikely to go to, or recognise, the CAA website. GOV.UK is more likely to be preferred in a google search, and is perceived as a more trusted site. The team stated that this isn’t ideal, and they also suggested that they will continue to monitor the effect this has when users move from one site to the other
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+before commencing with their private beta, the team would benefit from reflecting on their plans and the amount of user research required for the phase. Are their plans realistic and what are the implications for not being able to do everything they’ve highlighted in the tight timeframe they’ve given themselves? The team mentioned that they will have a second user researcher for private beta, this will certainly help with this
+
+the team mentioned that they weren’t able to action some of the recommendations in the previous assessment, so they should continue to look at these now that they are able to move to the next phase
+
+now that the team have refined their personas, they should continue to use them as they develop their service further, for example in looking into potential different landing pages, information needs and ability to take the drone test, and routes into the service. The team mentioned that they might be reliant on the private sector to develop videos and other media, on for example Youtube, to talk about the service and act as a prompt to visit the site. However, given that they have established that the private sector does not always offer the standard of information that the CAA can and should provide, the team may want to revisit this possibility in line with user preferences
+
+if CAA branding is used, the team should monitor drop off rates when users move from GOV.UK to CAA website, and test with users the effect of moving between sites with inconsistent styles
+
+3. Have a multidisciplinary team
+
+Decision
+
+The team met point 3 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the content designer is now full time on the service as there seem to be a lot of work needed for the content of the service including in the front pages, registration and assessment of users
+
+the team has tried various ways of working to ensure that CAA and the supplier, they have co-located at CAA’s offices in Gatwick and have their own space where the team collaborates, shares updates, attends daily stand ups and runs show and tells
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+grow the beta team to include 2 additional developers, 1 QAT analyst and 1 user researcher. The panel were told that the additional user researcher will support the education part of the service while the current user researcher will support the registration part. While this may be a good way to separate the strands the service team need to ensure that the tasks are well defined and that plans support those tasks and the two strands within the service do not spread to far from each other
+
+the service team needs to have more tangible plans for their beta work in order to ensure that the team is set up accordingly to be able to cope with the workload. This needs to be evidenced strongly by the service team in order to have a better understanding how the team will look like going forward
+
+4. Use agile methods
+
+Decision
+
+The team met point 4 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the team from the supplier has co-located at CAA’s offices in Gatwick as this would help the communication between the teams; the two teams also attend the daily stand-ups in the dedicated room together and look at the various boards as described to the panel by the team
+
+the use of tools is good and more specifically the panel were impressed with the use of Azure DevOps for their users stories, pipeline releases and branches strategy
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+the panel were told that the service team reviews the RAID logs every two weeks in terms of priority and see what impacts are on the team. While this is good exercise, it may need to happen more often or at least have a process in place in order for the team to identify and react to such issues logged promptly as the environment changes to a faster paced environment
+
+5. Iterate and improve frequently
+
+Decision
+
+The team did not meet point 5 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+content has been iterated to reflect language users understand
+
+research and testing was done to make changes on whether to show the right/wrong answer with red marking as the user moves to the next question- results of iteration have helped the team make the decision to show the results at the end
+
+the team iterated the confirmation page after successfully completing the test - all items that user agrees to need to be check individually which gives an opportunity for the users to actually read the text
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+explore the unhappy journeys and establish the right amount of tests in order to understand those paths better to provide better use experience
+
+consider whether the test could be technically simplified, starting with the necessary 20 questions and only complicate it if research shows it to be necessary
+
+ensure that the iteration produces tangible changes to their service which are meaningful and useful to the users rather than to have an iteration for versioning purposes
+
+consider the order and priority of delivery in beta and whether they could deliver specific user journeys before others so they can start testing them. For example, the service team made clear that they had questions around how the verification process will work (e.g. is LOA1 the right choice, what will the drop-out rate be, is it digitally inclusive, etc.). They should consider whether they could order the delivery process so that they could release a single journey that required verification first so that they could gather data on the process more quickly
+
+consider whether they could build and release components in beta in an ordered way so as to de-risk overall delivery confidence. The current plan to release features for public beta in one go is ambitious and the service team should consider if they could test specific parts of the journey earlier to ensure the release will be successful
+
+consider simplifying content further on the start page
+
+Decision
+
+The team met point 6 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the service team showed they had clearly spent time evaluating multiple tools and systems to check what would fit the service best, especially when it comes to platform hosting
+
+the service team could offer a specific example of how they had evaluated identity verification tools in the first assessment. They showed in the second assessment that they had continued to evaluate these tools and decided that the Experian service will offer more functionality for non-UK residents and will reduce the potential failure rate
+
+the service team have spent a lot of time considering multiple different common platforms, for example first exploring the existing CAA Azure stack before considering using commercial platforms and finally deciding to use the GOV.UK PaaS offering
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+consider whether a 15-minute timeout in the service is required and check that it does not adversely affect users with accessibility needs or users low on the digital inclusion scale
+
+if they decide to use Experian, ensure that the Document Upload Check service is fully accessible
+
+ensure that their choice of front-end technologies will not adversely affect users and consider the feedback for point 13. The team have made clear improvements here compared to the first assessment, but should prioritise this testing in beta once they have functional code. The service team should also ensure the service still functions if JavaScript is turned off halfway through the journey
+
+7. Understand security and privacy issues
+
+Decision
+
+The team met point 7 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+considered security and privacy from the user perspective when designing the LOA requirements for the service. The panel successfully challenged their stakeholders to reduce the LOA level from 2 to 1
+
+the service team have considered alternative ways of securing the service such as providing email tokens instead of login details
+
+the team includes security and privacy checks as part of their development and integration pipeline
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+consider whether offering users the ability to verify whether another flyer has passed the test would prevent the risk of fraud
+
+ensure users are able to alter their details (such as email address) in the service
+
+in beta, perform a threat modelling exercise to consider the major security threats to the service and how to mitigate them
+
+8. Make all new source code open
+
+Decision
+
+The team met point 8 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+although very little code exists currently, the panel indicated that they planned to make their source code openly available
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+provide links to where the source code will be published and evidence how they are ensuring source code is published in a timely manner
+
+9. Use open standards and common platforms
+
+Decision
+
+The team met point 9 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the service team have spent a lot of time considering multiple different common platforms, for example first exploring the existing CAA Azure stack before considering using commercial platforms and finally deciding to use the GOV.UK PaaS offering
+
+the service team plan to use (or at least seriously consider using) multiple common platforms from GOV.UK; including Notify and Pay
+
+the service team have opted to prefer common platforms rather than building their own platforms where possible
+
+this is the first widely available citizen facing service that the CAA will publish, meaning the service team has had to make a number of decisions for the first time for the agency
+
+the team have done considerable research to ensure that Angular is a good decision for the service to use as a front-end technology
+
+10. Test the end-to-end service
+
+Decision
+
+The team met point 10 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the service team could show a clear plan to deploy and test the end-to-end service They plan to use a DevOps approach, use automated testing suites such as SonarQube to check code quality and can provide automated pushes to the Cloud Foundry solution
+
+the team were able to prove that they had considered the majority of the end-to-end service for users with successful payment, education and verification steps
+
+the service team had created a number of technical “spikes” using API stubs to ensure that their tech stack and architectural model is appropriate and works
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+the service team has done more work to demonstrate the parts of the service that handle failure conditions. By using Experian, they can catch some failures in the Document Upload Check service. However, with such a large number of potential users, it is still likely that some will not be able to prove their identity to LOA1 standards. In beta, the service team will need to show a clear plan to handle the expected volume of verification failure requests
+
+because a user is expected to have already committed a large amount of money to buy a drone before using the service, the team should consider and do research on how the journey will end when verification fails and users are not allowed to operate or pilot the drone that they have purchased
+
+11. Make a plan for being offline
+
+Decision
+
+The team met point 11 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the team have decided to use platforms that are resilient. By using common and shared platforms for hosting and for key services (e.g. verification, notify and pay), they are able to use the SLA’s of those services which are very high
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+consider a plan for being offline. The panel were concerned to see that the service team haven’t considered what their recovery point and time objectives will be or how they will manage the service if it goes offline. The service team also did not show that they had considered how they would explain to users who would be affected if the service was unavailable
+
+the team should consider further how they can manage and process offline queries where the service or a dependent system go down for a considerable amount of time
+
+the team should consider whether the CAA help centre will be staffed and run appropriately for a potentially large number of citizens requiring help or assistance using the service
+
+12: Make sure users succeed first time
+
+Decision
+
+The team met point 12 of the Standard.
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+test the unhappy paths for payment failure and verification failure
+
+test offline parts of the service for assisted digital users
+
+explore how users might register using the same email address and reconsider email address as a unique identifier
+
+13. Make the user experience consistent with GOV.UK
+
+Decision
+
+The team met point 13 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the team has an exemption from GOV.UK but plan to use and be consistent with the GOV.UK Design System patterns
+
+the team have started considering multiple options for how to direct users from GOV.UK to the CAA
+
+What the team needs to explore
+
+Before the beta assessment, the team needs to:
+
+the panel are aware that the team wants to use CAA branding for the service. Although the service team has proved that using CAA branding does not adversely affect users, they’ve not been able to give a clear reason why the service should not live on GOV.UK. The panel would be happier with CAA branding if the rationale was clearer. For beta they should use GOV.UK branding or speak to the standards assurance team at GDS
+
+if the team host the service on the CAA domain the team need to redevelop front-end components that already exist in the GOV.UK Design System. The team should consider whether this is adding unnecessary overhead for a service
+
+if linking from a GOV.UK start page to a CAA page consider priming users for the change in branding, for example, “Start now on the Civil Aviation Authority”
+
+14. Encourage everyone to use the digital service
+
+Decision
+
+The team met point 14 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the team had a thorough plan for comms and engagement which included various user groups with various means to get through to those groups
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+test comms and engagement plans with users
+
+15. Collect performance data
+
+Decision
+
+The team met point 15 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+product performance was tracked whereby the service team can see dropping out users to improve user journeys
+
+operational performance will be monitored to improve comms if take up is not as good as planned in order to improve journey times if needed based on recorded data collected
+
+service performance will cover improvements to reduce the need for people to call in
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+it is estimated that 15% to have a contact centre rate which may be around if verification or payment fails. While this is good, it needs to be clarified further and kept close in case numbers change. This may lead to the journey changes completely to more simple and easier to use
+
+16. Identify performance indicators
+
+Decision
+
+The team met point 16 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the service team is planning to closely monitor the assisted digital users
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+clearly identify performance indicators
+
+include all users and ensure that there is a plan to lower costs per transaction and improve user satisfaction (and increase completion rate)
+
+have a concrete plan for digital take-up and reduce reliance on assisted digital
+
+17. Report performance data on the Performance Platform
+
+Decision
+
+The team met point 17 of the Standard.
+
+What the team has done well
+
+The panel was impressed that:
+
+the service team will use these reports to also work out costs for operation and money coming in from users who pay for their licenses
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
+
+register the service with the performance platform
+
+not rely on current KPIs and user stories in order to identify the reports that need to be produced. The service team should present evidence that this is known at this stage
+
+18. Test with the minister
+
+Decision
+
+The team met point 18 of the Standard.
+
+What the team needs to explore
+
+Before their next assessment, the team needs to:
